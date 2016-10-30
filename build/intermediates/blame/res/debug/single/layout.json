@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\tela_login.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\tela_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\tela_menu.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\tela_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\cad_geral.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\cad_geral.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\cad_user.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\cad_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\cad_produto.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\cad_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\tela_consulta.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\tela_consulta.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\cad_prato.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\cad_prato.xml"
+    },
+    {
+        "merged": "C:\\Users\\jefferson\\workspace\\BoraComer\\build\\intermediates\\res\\merged\\debug\\layout\\tela_mesa.xml",
+        "source": "C:\\Users\\jefferson\\workspace\\BoraComer\\res\\layout\\tela_mesa.xml"
+    }
+]

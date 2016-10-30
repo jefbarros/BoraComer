@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bora Comer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="senha">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="opcao">Opções</string>
+    <string name="title_activity_cad_user">Cadastro de Usuário</string>
+    <string name="nome">Nome Completo</string>
+    <string name="funcao">Função</string>
+    <string name="id">Matrícula</string>
+    <string name="title_activity_cad_prato">Cadastro Prato</string>
+    <string name="prato">Nome do Prato</string>
+    <string name="tipo_prato">Tipo de Prato</string>
+    <string name="valor_prato">Valor do Prato</string>
+    <string name="id_prato">Código do Prato</string>
+    <string name="title_activity_cad_produto">Cadastro Produto</string>
+    <string name="id_produto">Código do Produto</string>
+    <string name="produto">Código do Produto</string>
+    <string name="tipo_produto">Tipo de Produto</string>
+    <string name="valor_produto">Valor do Produto</string>
+    <string name="mesa1">Mesa 1</string>
+    <string name="title_activity_tela_mesa">Mesa</string>
+    <string name="title_activity_tela_menu">Menu</string>
+    <string name="pedido">Pedidos</string>
+    <string name="title_activity_tela_consulta">Consulta</string>
+
+</resources>
